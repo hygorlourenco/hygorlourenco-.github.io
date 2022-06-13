@@ -1,1 +1,5 @@
-www.hygorprogramador.com.br
+$ dig www.hygorprogramador.com +nostats +nocomments +nocmd
+    > ;www.hygorprogramador.com                    IN      A
+    > www.hygorprogramador.com              3592    IN      CNAME   YOUR-USERNAME.github.io.
+    > hygorlourenco.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
