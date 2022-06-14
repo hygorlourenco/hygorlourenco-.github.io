@@ -1,1 +1,1 @@
-Projeto de Site Pessoal CV
+Projeto de Site Pessoal utilizando as tecnologias HTML, CSS, Bootstrap, Javascript
